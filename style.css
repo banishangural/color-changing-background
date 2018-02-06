@@ -1,0 +1,12 @@
+.btn{
+	position: fixed;
+	top: 45%;
+	left: 45%;
+	height: 50px;
+	width: 50px;
+	border-radius: 50%;
+	background-color: pink;
+}
+body {
+	background-color: blue;
+}
